@@ -1,0 +1,15 @@
+{
+  "name": "rhpm",
+  "version": "1.0.0",
+  "description": "this is request header parser microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-device": "^0.4.2"
+  }
+}
